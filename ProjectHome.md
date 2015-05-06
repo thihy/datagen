@@ -1,0 +1,1 @@
+This software can be used to generate random data for databases, files etc.
